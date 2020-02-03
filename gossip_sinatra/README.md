@@ -6,5 +6,5 @@ Enjoy ;)
 ## Installation
 ```bash
 $ bundle.install
-$ shotgun -p 4567
+$ rackup -p 4567
 ```
